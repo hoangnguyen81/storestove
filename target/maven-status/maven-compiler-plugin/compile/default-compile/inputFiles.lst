@@ -1,0 +1,16 @@
+/Users/Admin/Documents/stovestore/stovestore/src/main/java/commons/BasePage.java
+/Users/Admin/Documents/stovestore/stovestore/src/main/java/commons/BaseTest.java
+/Users/Admin/Documents/stovestore/stovestore/src/main/java/commons/GlobalConstants.java
+/Users/Admin/Documents/stovestore/stovestore/src/main/java/commons/PageGeneratorManager.java
+/Users/Admin/Documents/stovestore/stovestore/src/main/java/factoryBrowsers/BROWSERS.java
+/Users/Admin/Documents/stovestore/stovestore/src/main/java/factoryBrowsers/BrowserFactory.java
+/Users/Admin/Documents/stovestore/stovestore/src/main/java/factoryBrowsers/ChromeDriverManager.java
+/Users/Admin/Documents/stovestore/stovestore/src/main/java/factoryBrowsers/EdgeDriverManager.java
+/Users/Admin/Documents/stovestore/stovestore/src/main/java/factoryBrowsers/FirefoxDriverManager.java
+/Users/Admin/Documents/stovestore/stovestore/src/main/java/locators/HomePageLocator.java
+/Users/Admin/Documents/stovestore/stovestore/src/main/java/locators/ResultPageLocator.java
+/Users/Admin/Documents/stovestore/stovestore/src/main/java/pageobjects/HomePageObject.java
+/Users/Admin/Documents/stovestore/stovestore/src/main/java/pageobjects/ResultPageObject.java
+/Users/Admin/Documents/stovestore/stovestore/src/main/java/testcases/homepage/DropdownListHomePage.java
+/Users/Admin/Documents/stovestore/stovestore/src/main/java/testcases/homepage/PopUpHomePage.java
+/Users/Admin/Documents/stovestore/stovestore/src/main/java/testcases/resultpage/SearchItem.java

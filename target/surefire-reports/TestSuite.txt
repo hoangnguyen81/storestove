@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 38.613 s <<< FAILURE! - in TestSuite
+testcases.homepage.PopUpHomePage.TC_01_Close_Popup  Time elapsed: 30.079 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at testcases.homepage.PopUpHomePage.TC_01_Close_Popup(PopUpHomePage.java:13)
+
+testcases.homepage.DropdownListHomePage.TC_01_Check_Item_In_Dropdown_List  Time elapsed: 0.006 s  <<< FAILURE!
+org.openqa.selenium.NoSuchSessionException: 
+Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {value=//input[@placeholder = 'Search Games'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: /var/folders/x3/xvc5m865587...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64067}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:64067/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+	at testcases.homepage.DropdownListHomePage.TC_01_Check_Item_In_Dropdown_List(DropdownListHomePage.java:16)
+
